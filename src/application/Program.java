@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.function.Consumer;
 
+/*Fazer um programa que, a partir de uma lista de produtos, aumente o
+preço dos produtos em 10%.*/
+
 import entites.Product;
 
 public class Program {
